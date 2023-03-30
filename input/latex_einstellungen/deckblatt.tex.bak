@@ -10,8 +10,8 @@
 \begin{large}
 %\textbf{Jonas Tröger}\\
 %\vspace{6mm}
-Berufsakadamie Sachsen\\
-Staatliche Studienakademie Leipzig
+-Universität-\\
+-Standort-
 \end{large}
 \end{center}
 
@@ -22,7 +22,7 @@ Staatliche Studienakademie Leipzig
 
 \end{verbatim}
 \begin{center}
-\textbf{\Large{Zentrale Auswertung hybrider IDS-Logs und Ableitung von IPS-Maßnahmen für betroffene Zielsysteme im Unternehmen}}\\
+\textbf{\Large{Thema}}\\
 \vspace{6mm}
 \large{Bachelorarbeit \linebreak 
 zur Erlangung der staatlichen Abschlussbezeichnung eines \linebreak 
@@ -34,17 +34,15 @@ Bachelor of Science (B. Sc.)\linebreak
 
 \begin{flushleft}
 \noindent \begin{tabular}{ll}
-Eingereicht von: & Jonas Tröger \\ 
- & Ernst-Toller-Straße 2 \\ 
- & SG CS20-2 \\ 
- & S5001862 \\ 
- Betreuer: & Prof. Dr. Hendrick Siegmund \\
- & Studienakademie Leipzig \\
- & Dipl. Inform. Edgar Johann Kapler \\
- & Deloitte GmbH \\
- & Dittrichring 22 04109 Leipzig \\
+Eingereicht von: & -Vorname Nachname- \\ 
+ & -Adresse- \\ 
+ & -Seminargruppe- \\ 
+ & -Student nr- \\ 
+ Betreuer: & -Prof. Dr. Vorname Nachname- \\
+ & -Adresse (Uni oder Arbeit)- \\
+ 
 \end{tabular}
 \end{flushleft}
 \vspace{10mm}
-\noindent  Leipzig, den \today\\
+\noindent  -Ort-, den \today\\
 
